@@ -1,0 +1,45 @@
+.title-class{
+    background-color: rgb(136, 0, 0);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: white;
+    border-radius: 27px;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size:   36px;
+    margin-top: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+}
+
+
+.button1 {
+    background-color: rgb(136, 0, 0);
+    width: 60px;
+    height: 60px;
+    border-style: none;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: white;
+    transition: width 0.15s, height 0.15s, opacity 0.15s;
+}
+.button1:hover {
+    height: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.button1:active {
+    opacity: 60%;
+}
+.apslogo-class {
+    width: 110px;
+    height: 110px;
+    border-style: solid;
+    border-color: white;    
+}
